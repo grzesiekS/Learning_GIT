@@ -1,0 +1,15 @@
+.container {
+	max-width: 350px;
+	text-align: center;
+	margin: 20px auto;
+}
+
+/* Song Title */
+.song_title h1, .song_title h4 {
+	color: Red;
+}
+
+/* Song Lyrics */
+.song_lyrics .container {
+	text-align: justify;
+}
