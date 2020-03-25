@@ -1,5 +1,9 @@
 body {
 	font-family: 'New Rocker', cursive;
+	color: white;
+	background-image: url("https://images.pexels.com/photos/97494/pexels-photo-97494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .container {
@@ -21,4 +25,5 @@ body {
 /*Page Footer*/
 .page_footer a {
 	text-decoration: none;
+	color: red;
 }
