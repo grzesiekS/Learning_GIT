@@ -13,3 +13,8 @@
 .song_lyrics .container {
 	text-align: justify;
 }
+
+/*Page Footer*/
+.page_footer a {
+	text-decoration: none;
+}
