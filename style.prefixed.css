@@ -10,6 +10,7 @@ body {
 	max-width: 350px;
 	text-align: center;
 	margin: 20px auto;
+	display: -ms-flexbox;
 	display: flex;
 }
 
